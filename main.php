@@ -20,7 +20,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <?php echo $content ?>
 <script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB0IswlL9RmRK6iOgT2JBoBoGp9EQAURaA&callback=initMap">
+        src="https://maps.googleapis.com/maps/api/js?key=ApiKey">
 </script>
 
 </body>
