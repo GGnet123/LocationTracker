@@ -2,7 +2,7 @@
 
 return [
     'class' => 'yii\db\Connection',
-    'dsn' => 'mysql:host=localhost;dbname=LocationTracker',
+    'dsn' => 'mysql:host=localhost;dbname=locationtracker',
     'username' => 'root',
     'password' => '',
     'charset' => 'utf8',
